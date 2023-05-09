@@ -1,2 +1,3 @@
+m = int(input())
 n = int(input())
-m = map(int(input().split()))
+print(m, n)
